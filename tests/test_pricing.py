@@ -1,4 +1,5 @@
 ﻿import pytest
+
 from app.pricing import apply_discount
 
 
